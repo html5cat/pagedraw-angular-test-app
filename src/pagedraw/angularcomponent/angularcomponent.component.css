@@ -5,8 +5,8 @@
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    padding-top: 24px;
-    background: #FFFFFF;
+    padding-top: 26px;
+    background: rgb(81, 137, 199);
 }
 
 .angularcomponent-0 {
@@ -18,15 +18,15 @@
     flex-shrink: 0;
     font-family: "Open Sans", sans-serif;
     color: #000000;
-    font-size: 23px;
-    line-height: 26px;
+    font-size: 30px;
+    line-height: 34px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;
     text-decoration: none;
     text-align: center;
     word-wrap: break-word;
-    padding-right: 0.09375px;
+    padding-right: 0.15625px;
 }
 
 .angularcomponent-1 {
